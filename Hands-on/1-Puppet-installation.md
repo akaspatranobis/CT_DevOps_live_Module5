@@ -24,6 +24,8 @@
 
 ### Installing Puppet Master
 
+### USE ubuntu-jammy-22.04 servers
+
 ### Step 1: Run the following commands for installing Puppet Master
 
 ```
