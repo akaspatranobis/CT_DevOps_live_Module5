@@ -31,8 +31,8 @@
 ```
 sudo apt-get update
 sudo apt-get install wget
-wget https://apt.puppetlabs.com/puppet6-release-bionic.deb
-sudo dpkg -i puppet6-release-bionic.deb
+wget https://apt.puppet.com/puppet7-release-jammy.deb
+sudo dpkg -i puppet7-release-jammy.deb
 sudo apt update
 sudo apt-get install puppetserver
 ```
@@ -40,8 +40,7 @@ sudo apt-get install puppetserver
 Installing Puppet Development Kit for modules development:
 
 ```
-wget https://apt.puppet.com/puppet-tools-release-bionic.deb
-sudo dpkg -i puppet-tools-release-bionic.deb
+
 sudo apt-get update
 sudo apt-get install pdk
 ```
@@ -53,8 +52,8 @@ sudo apt-get install pdk
 ```
 sudo apt-get update
 sudo apt-get install wget
-wget https://apt.puppetlabs.com/puppet6-release-bionic.deb
-sudo dpkg -i puppet6-release-bionic.deb
+wget https://apt.puppet.com/puppet7-release-jammy.deb
+sudo dpkg -i puppet7-release-jammy.deb
 sudo apt update
 sudo apt-get install puppet-agent
 ```
